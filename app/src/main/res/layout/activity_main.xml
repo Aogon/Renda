@@ -29,7 +29,7 @@
         android:text="0"
         android:textColor="#FFFFFF"
         android:textSize="104sp"
-        app:layout_constraintBottom_toTopOf="@+id/tap Button"
+        app:layout_constraintBottom_toTopOf="@+id/tapButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
